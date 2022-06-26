@@ -1,0 +1,6 @@
+nltk
+python-Levenshtein
+pyyaml
+nose
+joblib
+tqdm
