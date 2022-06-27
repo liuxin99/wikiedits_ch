@@ -88,5 +88,5 @@ updated to run the scripts for non-English languages:
 
 Currently supported languages: English, Polish, German.
 
-支持中文
+#### 支持中文
 我修改到能够支持中文
